@@ -2,3 +2,6 @@
 .idea/
 .bsp/
 target/
+
+# chiseltest
+test_run_dir/
